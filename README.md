@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @32manish35
 - 👀 I’m interested in FULL STACK WEBDEVELOPMENT
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on DEVELOPING A VERY GOOD LOOKING WEB PAGE
+- 💞️ I’m looking to collaborate on CREATING A SIMPLE & ANIMATED WEBPAGE
 - 📫 How to reach me DHURANDHARMANISHKUMAR@GMAIL.COM
 
 <!---
